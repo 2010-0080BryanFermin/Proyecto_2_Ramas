@@ -1,0 +1,20 @@
+{
+  "name": "npmgityramas",
+  "version": "1.0.0",
+  "description": "un proyecto donde voy a aprender a vinvular ramas mayormente",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "cscj",
+    "npm",
+    "js",
+    "html",
+    "css",
+    "ramas"
+  ],
+  "author": "BROXON",
+  "license": "ISC"
+}
