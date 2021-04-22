@@ -1,0 +1,6 @@
+.menu{
+    display: flex;
+justify-content: space-around;
+text-decoration: none;
+background-color: darkslateblue;
+border-radius: 10px;
